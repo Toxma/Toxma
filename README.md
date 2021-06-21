@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @Toxma
-- 👀 I’m interested in programing and new technology
-- 🌱 I’m currently learning C#, JAVA and Python
-- 📫 How to reach me : Matteo Zinutti (linkedin)
-
-<!---
-Toxma/Toxma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Toxma, I'm 20 yo.
+- 👀 I’m interested in programing, new technology and computer science.
+- 🌱 I’m currently learning a few programing languages (C#, JAVA, Python) and Linux.
+- 📫 How to reach me : Matteo Zinutti (Linkedin)
