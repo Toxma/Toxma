@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Toxma, I'm 20 yo.
-- 👀 I’m interested in programing, new technology and computer science.
-- 🌱 I’m currently learning a few programing languages (C#, JAVA, Python) and Linux.
+- 👋 Hi, I’m Matteo, I'm 21 yo and I'm studying @ Sup De Vinci
+- 👀 I’m interested in DevOps, Cloud and New Technology.
+- 🌱 I’m currently learning several DevOps technology (Ansible, Docker / Podman), Cloud provider (AWS, Azure) and Linux System.
 - 📫 How to reach me : Matteo Zinutti (Linkedin)
