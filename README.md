@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I´m Matteo, stundent in DevOps in Paris
+I’m Matteo, I'm 21 yo and I'm studying @ Sup De Vinci, I’m interested in DevOps, Cloud and New Technology.I’m currently learning several DevOps technology (Ansible, Docker / Podman), Cloud provider (AWS, Azure) and Linux System.
 
 ## 🚀💻 Technologies & Tools
 
