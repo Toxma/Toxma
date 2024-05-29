@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I’m Matteo, I'm 21 yo and I'm studying @ Sup De Vinci, I’m interested in DevOps, Cloud and New Technology. I’m currently learning several DevOps technology (Ansible, Docker / Podman), Cloud provider (AWS, Azure) and Linux System.
+I’m Matteo, I'm 22 yo and I'm studying @ Sup De Vinci, I’m interested in DevOps, Cloud and New Technology. I’m currently learning several DevOps technology (Ansible, Docker / Podman), Cloud provider (AWS, Azure) and Linux System.
 
 ## 🚀💻 Technologies & Tools
 
@@ -9,7 +9,6 @@ I’m Matteo, I'm 21 yo and I'm studying @ Sup De Vinci, I’m interested in Dev
 ## 🔗👔 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteozinutti/)
-[![Website](https://img.shields.io/badge/website-%230077B5.svg?style=for-the-badge&logo=curl&logoColor=white)](https://www.mzinutti.fr)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Toxma.Toxma)
 
