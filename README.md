@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I’m Matteo, I'm a 23 yo DevOps @ Gatewatcher, and I'm currently studying @ Sup De Vinci in DevOps and Cloud master's degree.
+I’m Matteo, I'm a 24 yo SRE @ Édifice.
 
 ## 🚀💻 Technologies & Tools
 
